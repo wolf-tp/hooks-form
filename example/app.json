@@ -1,0 +1,22 @@
+{
+  "name": "@wolf-tp/hooks-form-example",
+  "displayName": "HooksForm Example",
+  "expo": {
+    "name": "@wolf-tp/hooks-form-example",
+    "slug": "wolf-tp-hooks-form-example",
+    "description": "Example app for @wolf-tp/hooks-form",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
